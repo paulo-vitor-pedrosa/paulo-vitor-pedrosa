@@ -33,13 +33,3 @@
 - System architecture  
 - Backend development with Spring Boot  
 
-
----
-
-## 📫 Contact
-- 📧 Email: your@email.com  
-- 💼 LinkedIn: (add your LinkedIn here)
-
----
-
-⭐ *"Always learning, always evolving!"*
